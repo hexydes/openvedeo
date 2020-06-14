@@ -9,3 +9,7 @@ The web service is the method for uploading, storing, and sharing video content.
 <br>
 <b>Clients</b>
 The clients will be what viewers use to subscribe to new server channels, view content, and more. Clients will be available as mobile apps, desktop applications, and potentially a web interface. A cross-platform environment such as Electron might be desirable here, to make porting to Windows, Mac OS, Linux, and other environments easier.
+<br>
+<br>
+<b>Service Diagram</b>
+![Diagram of Openvedeo service](https://i.imgur.com/dtrJDQr.png)
